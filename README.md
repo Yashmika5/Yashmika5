@@ -1,13 +1,49 @@
-<h1 align="center">Hi 👋, I'm Gajindu Yashmika</h1>
-<h3 align="center">A passionate Full Stack Developer from Sri Lanka</h3>
+<h1 align="center">Hi , I'm Gajindu Yashmika <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Full+Stack+Developer;Competitive+Programmer;Always+learning+new+things"></a>
+</p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashmika5&label=Profile%20views&color=0e75b6&style=flat" alt="yashmika5" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yashmika5" alt="yashmika5" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Yashmika5?tab=repositories](https://github.com/Yashmika5?tab=repositories)
+<p align="center"> 
+	<img src="https://komarev.com/ghpvc/?username=Yashmika5&label=Profile%20views&color=0047AB&style=plastic?" alt="Yashmika5" height=25px, width=160px/> 
+	<!---
+		<a href = "https://commits.top/egypt.html" target="_blank">
+			<img src="https://aktive.tk/egypt/7oSkaaa?color=red" alt="Most Active Users" target="_blank" height=25px, width=250px/> 
+		</a>
+	-->
 
-- 📫 How to reach me **gajinduyashmika5@gmail.com**
+
+</p>
+
+
+## <picture><img src = "https://i.postimg.cc/mgBR783L/info-gif.gif?raw=true" width = 50px></picture> About me
+
+
+<table align="center">
+<tr border="none">
+<td width="100%" align="left">
+  
+- :school: I am an `Undergraduate` at **NIBM**.
+- :technologist: I love using Software as a solution for every `Problem`.
+- :student: I’m currently learning `Software Engineering`.
+- :nerd_face: Always `learning new things`.
+- :boom: You can visit [MY WEBSITE(Coming Soon...)]().
+
+</td>
+<td width="100%" align="center">
+
+  <img align="center" alt="Coding" width="300" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif">
+
+  
+  </td>
+</tr>
+</table>
+<br>
+
+
+## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/competitive_programming_profile.png?raw=true" width=40> </picture> My Competitive Programming Profiles
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
